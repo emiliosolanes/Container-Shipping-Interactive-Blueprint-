@@ -1,4 +1,4 @@
-# DCSA Industry Blueprint — Interactive Explorer
+# DCSA Industry Blueprint - Interactive Explorer
 A side project by Emilio Solanes to show what becomes possible when standards are open.
 Not intended to be maintained. Built it because I wanted to see what could be done. 
 
